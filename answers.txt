@@ -1,0 +1,7 @@
+1. if we can use ctrl+f we astimate the avg time for article is about 5 min and so if we have 60 articles it will take 300 minutes which is 5 hours.
+if we cant use ctrl+f it will take even more time.
+
+2. our conclusion is that we can write short scripts that will replace hard human jobs.
+other areas that can use this teqnique is for example finding arbitrage between different stock market around the world.
+
+we can use watch -n 3660 that return a command every hour. than we can use sort and uniq to see if we scan article twice.
